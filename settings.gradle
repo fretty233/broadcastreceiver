@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PrakW7S3_BroadcastReceiver"
